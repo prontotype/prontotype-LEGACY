@@ -6,7 +6,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/prontotype/core"
+            "url": "https://github.com/prontotype/core-LEGACY"
         }
     ],
     "minimum-stability": "dev"
