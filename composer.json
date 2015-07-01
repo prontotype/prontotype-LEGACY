@@ -1,7 +1,7 @@
 {
     "require": {
         "php": ">=5.3.3",
-        "prontotype/core": "master"
+        "prontotype/core-LEGACY": "master"
     },
     "repositories": [
         {
